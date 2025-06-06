@@ -251,8 +251,8 @@ a:hover::after {
 }
 .rectangle-ranking{
   background: linear-gradient(to right, 
-                              rgb(1, 76, 157) 90%,  /* 80% 部分为蓝色 */
-                              rgba(1, 76, 157, 0)94%,  /* 1/3 部分为透明 */
+                              rgb(1, 76, 157) 94%,  /* 80% 部分为蓝色 */
+                              rgba(1, 76, 157, 0)98%,  /* 1/3 部分为透明 */
                               rgba(1, 76, 157, 0) 100%);
   color:rgba(255, 255, 255, 0.901);
 }
